@@ -1,7 +1,7 @@
 # ls_ITA_territorio
 LimeSurvey 3, 4 e 5 -Territorio Italiano con domande tipo array duale
 
-AGGIORNAMENTO 30/04/2021: Modifiche allo script causate da aggiornamenti di LimeSurvey 3 e 5. Sostituire nello script le stringhe  "array-flexible-duel-scale" con il nuovo nome "array-flexible-dual-scale". Inseriti nuovi lss e lsq.
+AGGIORNAMENTO 04/05/2022: Tutti i componenti sono validi per le versioni dalla 3.25.21 in su. Per farlo funzionare con versioni precedenti, occorre modificare lo script sostituendo la stringa  "array-flexible-dual-scale" con la stringa "array-flexible-duel-scale".
 
 Domande con territorio italiano per versioni 3 e 4 e nelle lingue "it" (default) e "it-informale".
 I file lsq sono domande che possono essere importate direttamente nelle survey. I file lss sono survey con le sole domande di cui sopra. Gli xslx contengono codici e descrizioni delle domande:
