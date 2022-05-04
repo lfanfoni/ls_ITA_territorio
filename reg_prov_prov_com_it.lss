@@ -73554,7 +73554,7 @@
 
   $(document).ready(function() {
 		
-		$('.array-flexible-duel-scale .dropdown-item select').each(function(i) {
+		$('.array-flexible-dual-scale .dropdown-item select').each(function(i) {
 			if($('option[selected="selected"]', this).length == 0) {
 				$(this).prepend('<option value="">Please choose...</option>');
 				$(this).val('');
@@ -73597,7 +73597,7 @@
 		var qID : the number of question to filter 
 	*/
 function selectFilterDualScale(qID){
-	if($("#question"+qID).hasClass('array-flexible-duel-scale')){
+	if($("#question"+qID).hasClass('array-flexible-dual-scale')){
 			//modifiche Steve
 		
 			//RIPRENDE IL VECCHIO
@@ -73702,7 +73702,7 @@ function selectFilterDualScale(qID){
 
   $(document).ready(function() {
 		
-		$('.array-flexible-duel-scale .dropdown-item select').each(function(i) {
+		$('.array-flexible-dual-scale .dropdown-item select').each(function(i) {
 			if($('option[selected="selected"]', this).length == 0) {
 				$(this).prepend('<option value="">Please choose...</option>');
 				$(this).val('');
@@ -73745,7 +73745,7 @@ function selectFilterDualScale(qID){
 		var qID : the number of question to filter 
 	*/
 function selectFilterDualScale(qID){
-	if($("#question"+qID).hasClass('array-flexible-duel-scale')){
+	if($("#question"+qID).hasClass('array-flexible-dual-scale')){
 			//modifiche Steve
 		
 			//RIPRENDE IL VECCHIO
